@@ -2,20 +2,27 @@
 It allows you to create ROM dumps using GitHub actions. It uses [DumprX](https://github.com/DumprX/DumprX) when creating dumps.  
 English | [简体中文](./README_CN.md)
 
-## What can this tool do?
+## 📚 Documentation
+
+- **[Quick Start Guide](./QUICKSTART.md)** - Complete step-by-step setup and usage instructions
+- **[Device Examples](./DEVICE_EXAMPLES.md)** - Detailed examples including SM-X110 (GTA9WiFi) for TWRP
+- **[Chinese Documentation](./README_CN.md)** - 中文文档
+
+## ✨ What can this tool do?
 - Extract and dump firmware from stock ROM files
 - Generate TWRP-compatible device trees for building custom recoveries
 - Generate LineageOS-compatible device trees
 - Create vendor trees for custom ROM development
 - Automatically upload dumps and device trees to separate GitHub repositories
-## Requirements
+
+## 📋 Requirements
 - ROM Link [mediafire | mega.nz | gdrive | AndroidFileHost OR Directly download link]
 - GitHub token (I will explain)
 - Patience
 
 **New to this tool?** Check out the [Quick Start Guide](./QUICKSTART.md) for step-by-step instructions!
 
-## Instruction for use
+## 🔧 Instruction for use
 - Go to the GitHub account settings. Create an access token there. Token type should be classic. Mark all the boxes. And copy the token immediately. Because you won't see it again
 - Fork this repository.
 - Go to Settings of the forked repository.
@@ -31,7 +38,7 @@ Add this:
 
 For device-specific examples and detailed guidance, see [DEVICE_EXAMPLES.md](./DEVICE_EXAMPLES.md)
 
-## Example: Building TWRP Recovery for Samsung SM-X110 (GTA9WiFi)
+## 📱 Example: Building TWRP Recovery for Samsung SM-X110 (GTA9WiFi)
 
 If you want to dump a ROM to build TWRP recovery for a specific device like the Samsung Galaxy Tab A9 WiFi (SM-X110/GTA9WiFi), follow these steps:
 
@@ -64,7 +71,7 @@ If you want to dump a ROM to build TWRP recovery for a specific device like the 
 
 5. **Build TWRP**: Clone the TWRP device tree repository and follow TWRP building instructions to compile your custom recovery.
 
-## Small explanations and notes
+## 📝 Small explanations and notes
 - This project is licensed under the `Eclipse Public License 2.0`
 - Any deficiencies or problems on the dump are caused by Stock ROM.
 - I'm still developing it. But still good.
