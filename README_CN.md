@@ -34,9 +34,10 @@
 如果您想转储 ROM 以为特定设备构建 TWRP 恢复，例如三星 Galaxy Tab A9 WiFi (SM-X110/GTA9WiFi)，请按照以下步骤操作：
 
 1. **查找官方 ROM**：从以下来源找到您的 SM-X110 设备的官方固件：
-   - SamFw.com
-   - Samfrew.com  
-   - Samsung Updates
+   - SamMobile (sammobile.com)
+   - SamFw (samfw.com)
+   - Samfrew (samfrew.com)
+   - Samsung Updates (samsung-updates.com)
    - 或任何可信的固件存储库
 
 2. **上传到支持的主机**：将 ROM 上传到以下服务之一：

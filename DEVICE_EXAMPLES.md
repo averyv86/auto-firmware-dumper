@@ -27,10 +27,11 @@ When running the "Auto Firmware Dumper" workflow for this device:
 ### Finding Stock ROM
 
 Sources for SM-X110 firmware:
-1. **SamMobile** (samfrew.com)
+1. **SamMobile** (sammobile.com)
 2. **SamFw** (samfw.com)
-3. **Samsung Updates** (samsung-updates.com)
-4. **Frija Tool** (download tool for direct Samsung firmware)
+3. **Samfrew** (samfrew.com)
+4. **Samsung Updates** (samsung-updates.com)
+5. **Frija Tool** (desktop download tool for direct Samsung firmware)
 
 ### Expected Output
 

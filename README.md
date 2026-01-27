@@ -36,9 +36,10 @@ For device-specific examples and detailed guidance, see [DEVICE_EXAMPLES.md](./D
 If you want to dump a ROM to build TWRP recovery for a specific device like the Samsung Galaxy Tab A9 WiFi (SM-X110/GTA9WiFi), follow these steps:
 
 1. **Find the stock ROM**: Locate the official firmware for your SM-X110 device from sources like:
-   - SamFw.com
-   - Samfrew.com  
-   - Samsung Updates
+   - SamMobile (sammobile.com)
+   - SamFw (samfw.com)  
+   - Samfrew (samfrew.com)
+   - Samsung Updates (samsung-updates.com)
    - Or any trusted firmware repository
 
 2. **Upload to a supported host**: Upload the ROM to one of these services:
