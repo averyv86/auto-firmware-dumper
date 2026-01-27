@@ -13,6 +13,8 @@ English | [简体中文](./README_CN.md)
 - GitHub token (I will explain)
 - Patience
 
+**New to this tool?** Check out the [Quick Start Guide](./QUICKSTART.md) for step-by-step instructions!
+
 ## Instruction for use
 - Go to the GitHub account settings. Create an access token there. Token type should be classic. Mark all the boxes. And copy the token immediately. Because you won't see it again
 - Fork this repository.
